@@ -22,5 +22,7 @@ At the end of the game, the player is asked if they want to continue. If the ans
 
 <img width="635" alt="image" src="https://github.com/karalamaa/Python-Catch-the-Turtle/assets/174335460/534fb99a-bd82-4dd2-8939-c8355e05e61b">
 
+<img width="637" alt="image" src="https://github.com/karalamaa/Python-Catch-the-Turtle/assets/174335460/87e126f2-44ea-4280-8298-e6cd79364ac9">
+
 <img width="638" alt="image" src="https://github.com/karalamaa/Python-Catch-the-Turtle/assets/174335460/f767f30a-4450-4fad-9e90-1ebaaf87108a">
 
